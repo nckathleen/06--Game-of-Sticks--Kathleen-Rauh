@@ -1,7 +1,7 @@
 # Game of Sticks
 ## Description:
 
-Welcome to the Game of Sticks,
+Welcome to the Game of Sticks, where whoever is left holding the bag...err...the last stick is the loser.
 
 ## How To Run Mystery Word:
 
